@@ -1,0 +1,4 @@
+Nama    : Moch Fahmi Setiadi
+NPM     : 5520120081
+Kelas   : IF NR 2020
+Prodi   : Teknik Informatika
